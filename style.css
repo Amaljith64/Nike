@@ -135,7 +135,7 @@ body{
 }
 .Div-two-imagetwo{
     position: relative;
-    background-image: url("/3.webp");
+    background-image: url("3.webp");
     width: 53%;
     background-size: contain;
     background-repeat: no-repeat;
