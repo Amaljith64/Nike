@@ -53,7 +53,7 @@ body{
 }
 .Image-div-one{
     position: relative;
-    background-image: url("/1.webp");
+    background-image: url("1.webp");
     background-size: contain;
     background-repeat: no-repeat;
     height: 755px;
@@ -124,7 +124,7 @@ body{
 }
 .Div-two-imageone{
     position: relative;
-    background-image: url("/2.webp");
+    background-image: url("2.webp");
     width: 51%;
     background-size: contain;
     background-repeat: no-repeat;
@@ -281,14 +281,14 @@ body{
 }
 .Div-seven-one{
     width: 33%;
-    background-image:url("/44.webp");
+    background-image:url("44.webp");
     background-size: cover;
     background-position: 15%;
 
 }
 .Div-seven-two{
     width: 33%;
-    background-image:url("/45.webp");
+    background-image:url("45.webp");
     background-size: cover;
     background-position: 15%;
 
@@ -296,7 +296,7 @@ body{
 .Div-seven-three{
     width: 33%;
     
-    background-image:url("/46.webp");
+    background-image:url("46.webp");
     background-size: cover;
     background-position: 15%;
 
